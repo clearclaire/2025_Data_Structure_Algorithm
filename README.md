@@ -22,7 +22,6 @@ This six‑course series dives into key algorithmic programming techniques frequ
 | `module3_graphs/` | Graph theory, traversal, and shortest path projects |
 | `module4_strings/` | String matching, suffix trees, and applications |
 | `module5_advanced_algorithms/` | Network flows, linear programming, streaming algorithms |
-| `capstone_project/` | Final challenge: apply algorithmic techniques to real‑world problem |
 
 
 ## 🎯 My Learning Goals
@@ -35,4 +34,4 @@ This six‑course series dives into key algorithmic programming techniques frequ
 - I will continue updating this repo as I move through the lecture.
 
 ## 📜 Certificate
-(Completion expected: `DEC 2025`)  
+(Completion expected: `JAN 2026`)  
